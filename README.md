@@ -6,6 +6,12 @@ Built by [Oriental Tech Solutions](https://github.com/OrientalTechSolutions) · 
 
 ---
 
+## Screenshots
+
+![Doctor Click app screens](app-screens.png)
+
+![Doctor Click app overview](banner.png)
+
 ## The need
 
 Patients wanted one app to find a doctor nearby, book a visit, and order medicines from a pharmacy close to them.
